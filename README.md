@@ -1,0 +1,3 @@
+I'm a huge fan of the &#9786; License, by [Visual Idiot](http://license.visualidiot.com). I'm worried that the license will be taken off his site - intentionally or not - at some point, though, and I'd like to have a backup.
+
+So I made this repository. It also contains the license "translated" into a couple other file formats, because distributing an HTML file is not always practical or convenient.
